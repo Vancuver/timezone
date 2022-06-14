@@ -1,4 +1,4 @@
-package com.timezone.core.controller;
+package com.timezone.core.config;
 
 import com.timezone.core.services.UserService;
 import lombok.RequiredArgsConstructor;
